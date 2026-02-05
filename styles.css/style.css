@@ -1,4 +1,4 @@
-/* Minimal styles based on current HTML */
+
 
 :root {
   --bg: #0e1726;
@@ -301,6 +301,9 @@ a {
   gap: 12px;
   flex-wrap: wrap;
 }
+main {
+  padding-bottom: 64px;
+  
 
 .footer {
   position: relative;
